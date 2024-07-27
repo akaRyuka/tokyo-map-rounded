@@ -6,7 +6,8 @@ body {
 
 .map-container {
     margin: auto;
-    max-width: 400px; /* Adjust according to iframe width */
+    height: 400px;
+    width: 20%; /* Adjust according to iframe width */
     border-radius: 15px; /* Rounded corners */
     overflow: hidden; /* Ensure content does not overflow the rounded corners */
 }
