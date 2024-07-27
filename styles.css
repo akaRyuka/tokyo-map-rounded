@@ -11,7 +11,7 @@ body {
     height: 388px; /* Set the height to match the iframe */
     border-radius: 12px; /* Rounded corners */
     overflow: hidden; /* Ensure content does not overflow the rounded corners */
-    margin-right: 20px;
+    margin-right: 21px;
 }
 
 iframe {
