@@ -9,7 +9,7 @@ body {
     width: 100%; /* Full width of the container */
     max-width: 300px; /* Maximum width for the container */
     height: 450px; /* Set the height to match the iframe */
-    border-radius: 15px; /* Rounded corners */
+    border-radius: 12px; /* Rounded corners */
     overflow: hidden; /* Ensure content does not overflow the rounded corners */
 }
 
