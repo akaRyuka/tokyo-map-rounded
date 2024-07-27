@@ -6,14 +6,15 @@ body {
 
 .map-container {
     margin: auto;
-    height: 400px;
-    width: 20%; /* Adjust according to iframe width */
+    width: 100%; /* Full width of the container */
+    max-width: 400px; /* Maximum width for the container */
+    height: 300px; /* Set the height to match the iframe */
     border-radius: 15px; /* Rounded corners */
     overflow: hidden; /* Ensure content does not overflow the rounded corners */
 }
 
 iframe {
     width: 100%;
-    height: 300px; /* Match the height of the iframe */
+    height: 100%; /* Full height of the container */
     border: 0;
 }
