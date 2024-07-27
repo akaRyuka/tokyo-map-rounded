@@ -18,16 +18,3 @@ iframe {
     height: 100%; /* Full height of the container */
     border: 0;
 }
-
-@media (max-width: 768px) {
-    .map-container {
-        width: 100%; /* Full width on small screens */
-        height: 300px; /* Adjust height for smaller screens */
-    }
-}
-
-@media (max-width: 480px) {
-    .map-container {
-        height: 250px; /* Further adjustment for very small screens */
-    }
-}
